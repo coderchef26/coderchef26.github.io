@@ -14,7 +14,7 @@
     "@hookform/resolvers": "^5.2.1",
     "@mui/icons-material": "^7.3.1",
     "@mui/material": "^7.3.1",
-    "@mui/system": "^7.3.1",
+    "@mui/system": "^9.5.0",
     "@prismicio/client": "^7.19.2",
     "@prismicio/next": "^2.0.1",
     "@prismicio/react": "^3.2.1",
